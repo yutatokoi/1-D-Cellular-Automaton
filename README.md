@@ -1,9 +1,8 @@
 # 1-D-Cellular-Automaton
 
-(Code to be uploaded by Jan 2025, once grading results have come out for this assignment)
-
 1-D cellular automaton program written in C.
 
+Example input:
 ```Example input
 31
 30
@@ -13,6 +12,7 @@
 30,10
 ```
 
+Example output:
 ```Example output
 ==STAGE 0============================
 SIZE: 31
